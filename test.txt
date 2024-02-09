@@ -1,1 +1,2 @@
 Olá, isto é um teste inicial
+Olá, eu sou uma nova linha
